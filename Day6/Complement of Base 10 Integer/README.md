@@ -36,7 +36,7 @@ These approach do not consider when `n = 0` so you have to add a condition for t
 
 ### Approach 1
 #### Note 
-1. We can get the right most but by `n & 1`
+1. We can get the right most bit by `n & 1`
 2. Now in order to invert it what we can do is perform **XOR with 1** as
 	2.1.  `0 ^ 1 = 1`
 	2.2. `1 ^ 1 = 0`
