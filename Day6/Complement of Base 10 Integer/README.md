@@ -59,7 +59,7 @@ Now are last 3 bits are the desired answer that we wan but not remaining 1's as 
 If we can create a mask like `00000000000000000000000000000111` and perform ***AND*** operation with ~5 then the answer that we get is
 `11111111111111111111111111111010` & `00000000000000000000000000000111` = `00000000000000000000000000000010` = `2`
 Which is our answer.
-** How to create mask**
+**How to create mask**
 Lets again take number 5 = `00000000000000000000000000000101`
 Now we know that we need 3 1's for this.
 And here if we perform 3 times right shift what we will get here is 0.
