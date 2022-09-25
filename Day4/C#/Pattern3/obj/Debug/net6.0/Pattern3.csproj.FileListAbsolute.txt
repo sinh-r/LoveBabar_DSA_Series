@@ -1,0 +1,15 @@
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\bin\Debug\net6.0\Pattern3.exe
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\bin\Debug\net6.0\Pattern3.deps.json
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\bin\Debug\net6.0\Pattern3.runtimeconfig.json
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\bin\Debug\net6.0\Pattern3.dll
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\bin\Debug\net6.0\ref\Pattern3.dll
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\bin\Debug\net6.0\Pattern3.pdb
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\Pattern3.csproj.AssemblyReference.cache
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\Pattern3.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\Pattern3.AssemblyInfoInputs.cache
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\Pattern3.AssemblyInfo.cs
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\Pattern3.csproj.CoreCompileInputs.cache
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\Pattern3.dll
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\ref\Pattern3.dll
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\Pattern3.pdb
+D:\LoveBabar_DSA_Series\Day4\C#\Pattern3\obj\Debug\net6.0\Pattern3.genruntimeconfig.cache
