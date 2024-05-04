@@ -17,4 +17,4 @@ are condemned to repeat it
 The steps to follow will be **either 1. or 2. then 3.**
 
 ## Questions to be solved
-1. Fibonacci series
+1. [Fibonacci Series](https://github.com/sinh-r/LoveBabar_DSA_Series/tree/main/Dynamic%20Programming/Fibonacci%20Series)
