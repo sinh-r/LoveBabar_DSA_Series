@@ -9,7 +9,7 @@ And the **recurence function** goes like this
 
 Lets say we want to call for **f(8)**. The recursive tree will look like this:
 ```
-                                f(8)
+                                			f(8)
 						    /        \
 						   f(7)      f(6)
 						 /     \    /    \
@@ -21,7 +21,7 @@ And its implementation will look like this (link to the code without DP will go 
 
 Now lets take a look again at the call tree
 ```
-                                f(8)
+                                			f(8)
 						    /        \
 						   f(7)      f(6)
 						 /     \    /    \
